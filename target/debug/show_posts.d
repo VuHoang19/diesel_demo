@@ -1,0 +1,1 @@
+/home/hoangvd3/rust/diesel/diesel_demo/target/debug/show_posts: /home/hoangvd3/rust/diesel/diesel_demo/src/bin/show_posts.rs /home/hoangvd3/rust/diesel/diesel_demo/src/lib.rs /home/hoangvd3/rust/diesel/diesel_demo/src/models.rs /home/hoangvd3/rust/diesel/diesel_demo/src/schema.rs
